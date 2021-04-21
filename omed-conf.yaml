@@ -1,0 +1,8 @@
+app:
+  port: 8989
+  log-path: /tmp/omed.log
+
+codebase:
+  # config your own codebase path
+  # note must match your url
+  xxrlzzz/chromium-open-ide:  /Users/xxrl/codebase/chromium-open-ide
